@@ -1,0 +1,143 @@
+:root {
+    --md-admonition-icon--custom-faq: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M80 160c0-35.3 28.7-64 64-64h32c35.3 0 64 28.7 64 64v3.6c0 21.8-11.1 42.1-29.4 53.8l-42.2 27.1a87.98 87.98 0 0 0-40.4 74v1.4c0 17.7 14.3 32 32 32s32-14.3 32-32v-1.4c0-8.2 4.2-15.8 11-20.2l42.2-27.1c36.6-23.6 58.8-64.1 58.8-107.7v-3.6c0-70.7-57.3-128-128-128h-32C73.3 32 16 89.3 16 160c0 17.7 14.3 32 32 32s32-14.3 32-32m80 320a40 40 0 1 0 0-80 40 40 0 1 0 0 80"/></svg>')
+}
+
+[data-md-color-scheme="initi"] {
+    --md-primary-fg-color:        #17479e;
+    --md-primary-fg-color--light: #0bbdff;
+    --md-primary-fg-color--dark:  #17479e;
+    --md-typeset-a-color: #17479e;
+    --md-accent-fg-color: #0bbdff;
+
+    .md-content {
+        --md-typeset-a-color: #17479e;
+        --md-accent-fg-color: #0bbdff;
+    }
+
+    .pathSVG {
+        fill: var(--md-default-bg-color);
+    }
+    
+}
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #0bbdff;
+    --md-primary-fg-color--light: #66d5ff;
+    --md-primary-fg-color--dark:  #17479e;  
+    --md-typeset-a-color: #0bbdff;
+    --md-accent-fg-color: #66d5ff;  
+
+    .pathSVG {
+        fill: var(--md-default-bg-color);
+    }
+}
+
+@media screen and (min-width: 640px) { 
+    .md-header__button.md-logo :-webkit-any(img,svg) {
+        height: 2.2rem;
+    }
+}
+@media screen and (min-width: 1024px) { 
+    .md-header__button.md-logo :-webkit-any(img,svg) {
+        height: 3.5rem;
+    }
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 1px;
+  border-left-width: 4px;
+}
+
+.md-header__title>.md-header__ellipsis {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.md-typeset td:not([class]):not(:last-child) {
+    border-right: 1px solid var(--md-typeset-table-color);
+}
+.md-typeset th:not([class]):not(:last-child) {
+    border-right: 1px solid var(--md-typeset-table-color);
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.nohead thead {
+    display: none;
+}
+
+.nohead table {
+    border-top: 0 !important;
+}
+
+
+.md-typeset .admonition.custom-faq,
+.md-typeset details.custom-faq {
+  border-color: #0bbdff;
+  font-size: 0.8rem;
+}
+.md-typeset .custom-faq > .admonition-title,
+.md-typeset .custom-faq > summary {
+  background-color: rgba(11, 189, 255, 1);
+  border-color: #0bbdff;
+  font-size: 0.9rem;
+  color: white;
+}
+.md-typeset .custom-faq > .admonition-title::before,
+.md-typeset .custom-faq > summary::before {
+  background-color: white;
+  -webkit-mask-image: var(--md-admonition-icon--custom-faq);
+          mask-image: var(--md-admonition-icon--custom-faq);
+}
+
+
+
+.md-typeset .admonition.custom-tip,
+.md-typeset details.custom-tip {
+  border-color: #0bbdff;
+  font-size: 0.7rem;
+}
+.md-typeset .custom-tip > .admonition-title,
+.md-typeset .custom-tip > summary {
+  background-color: rgba(11, 189, 255, 1);
+  border-color: #0bbdff;
+  font-size: 0.8rem;
+  color: white;
+}
+.md-typeset .custom-tip > .admonition-title::before,
+.md-typeset .custom-tip > summary::before {
+  background-color: #17469e59;
+  -webkit-mask-image: var(--md-admonition-icon--custom-tip);
+          mask-image: var(--md-admonition-icon--custom-tip);
+}
+
+
+@font-face {
+    font-family: "Rotunda";
+    src: url("../assets/fonts/3a-rotunda-light.woff2") format('woff2');
+}
+  
+@font-face {
+    font-family: "Rotunda";
+    src: url("../assets/fonts/6a-rotunda-bold.woff2") format('woff2');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Rotunda";
+    src: url("../assets/fonts/6b-rotunda-bold-italic.woff2") format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}

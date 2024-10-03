@@ -1,0 +1,128 @@
+site_name: Initi Playground docs
+site_url: https://docs.initiplayground.com
+copyright: Copyright &copy; 2024 Initi Interactive s.r.o.
+site_description: Documentation for the Initi Playground
+
+theme:
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: initi
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Rotunda
+    code: Roboto Mono
+  icon:
+    annotation: material/arrow-right-circle
+  name: material
+  custom_dir: overrides
+  language: en
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.jpg
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - navigation.sections
+    - toc.integrate
+    - toc.follow
+    - navigation.top
+    - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/INITI.org
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@initiinteractive2176
+
+
+nav:
+  - Home: index.md
+  - Hardware installation:
+    - 'Hardware installation': 'installation/index.md'
+    - "Unboxing the INITI Playground": 'installation/whats-in-the-box.md'
+    - "Space requirements": 'installation/space-requirements.md'
+    - 'Choosing the right wall': 'installation/choosing-wall.md'
+    - 'Choosing the right projector': 'installation/choosing-projector.md'
+    - 'Sensor installation': 'installation/sensor-installation.md'
+    - 'Wiring guide': 'installation/computer-installation.md'
+  - User guide: 
+    - 'setup/index.md'
+    - 'Getting started': 'setup/get-started.md'
+    - Settings tab:
+      - 'Choosing aspect ratio': 'setup/aspect-ratio.md'
+      - 'Sensor calibration': 'setup/sensor-calibration.md'
+      - 'Advanced calibration': 'setup/advanced-sensor-calibration.md'
+      - 'Connecting to the internet': 'setup/connecting-to-the-internet.md'
+      - 'Getting updates': 'setup/getting-updates.md'
+      - 'Exit button': 'setup/exit-button.md'
+      - 'Automatically start games': 'setup/game-autostart.md'
+      - 'Sound settings': 'setup/sound-settings.md'
+      - 'Shutdown and restart': 'setup/restarting-shutting-down.md'
+    - Games tab:
+      - 'Enable touch': 'setup/enabling-touch.md'
+      - 'Starting games': 'setup/starting-games.md'
+      - 'Exiting games': 'setup/exiting-games.md'
+    - Troubleshooting:
+      - 'Factory reset': 'setup/factory-reset.md'
+  - Developers guide:
+      - 'Developers guide': 'developers/index.md'
+      - 'Getting started': 'developers/getting-started.md'
+      - Initi Playground SDK for Unity:
+        - 'Downloading SDK': 'developers/unity-sdk-download.md'
+        - 'Setting up a new project': 'developers/unity-setting-up-project.md'
+        - 'Testing touch using simulator': 'developers/testing-touch-using-simulator.md'
+        - 'Adding interactive objects': 'developers/adding-interactive-objects.md'
+        - 'Pre-made behaviour scripts': 'developers/behaviour-scripts.md'
+        - 'Pre-made utility scripts': 'developers/util-scripts.md'
+        - 'Extending functionality': 'developers/extending-behaviors.md'
+#      - Managing custom games:
+#        - Installing custom games: 'developers/installing-games.md'
+#        - Uninstalling custom games: 'developers/uninstalling-games.md'
+  - Help: 
+    - 'help/index.md'
+    - 'FAQ': 'help/faq.md'
+    - 'Contact us': 'help/contact.md'
+  
