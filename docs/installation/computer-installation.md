@@ -9,7 +9,7 @@ blank-value:
 In this section, you'll find a video that demonstrates how to properly connect the sensor, projector, sound system, and other necessary components to your computer, ensuring that everything is set up to start the INITI Playground. Check the video below for a step-by-step visual guide. If you encounter any issues, feel free to [contact us](../help/contact.md) for support.
 
 <div style='width: 70%' class="center" markdown>
-![Wiring plan](assets/wiring-plan.png "Wiring plan")
+![Wiring plan](assets/wiring-plan.png "Wiring plan"){ .on-glb } 
 </div>
 
 

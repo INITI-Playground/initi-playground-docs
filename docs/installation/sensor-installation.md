@@ -19,7 +19,7 @@ There are two ways to install the INITI Playground sensor: mounting it to the ce
 ------------
 
 <div style='width: 70%' class="center" markdown>
-![Mounting sensor](assets/sensor-mounting.jpg "Mounting sensor")
+![Mounting sensor](assets/sensor-mounting.jpg "Mounting sensor"){ .on-glb } 
 </div>
 
 
@@ -27,7 +27,7 @@ There are two ways to install the INITI Playground sensor: mounting it to the ce
 
 
 <div style='width: 70%' class="center" markdown>
-![Sensor wiring](assets/sensor-plan.jpg "Sensor wiring")
+![Sensor wiring](assets/sensor-plan.jpg "Sensor wiring"){ .on-glb } 
 </div>
 
 -----------
