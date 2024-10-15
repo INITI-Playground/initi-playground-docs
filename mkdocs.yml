@@ -1,7 +1,7 @@
-site_name: Initi Playground docs
+site_name: INITI Playground docs
 site_url: https://docs.initiplayground.com
 copyright: Copyright &copy; 2024 Initi Interactive s.r.o.
-site_description: Documentation for the Initi Playground
+site_description: Documentation for the INITI Playground
 
 theme:
   palette: 
@@ -110,7 +110,7 @@ nav:
   - Developers guide:
       - 'Developers guide': 'developers/index.md'
       - 'Getting started': 'developers/getting-started.md'
-      - Initi Playground SDK for Unity:
+      - INITI Playground SDK for Unity:
         - 'Downloading SDK': 'developers/unity-sdk-download.md'
         - 'Setting up a new project': 'developers/unity-setting-up-project.md'
         - 'Testing touch using simulator': 'developers/testing-touch-using-simulator.md'

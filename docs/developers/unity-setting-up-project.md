@@ -1,5 +1,5 @@
 Title:   Setting up a new project
-Summary: Set up a new project in Unity using Initi Playground SDK
+Summary: Set up a new project in Unity using INITI Playground SDK
 Authors: Ondrej Prucha
 Date:    July 30, 2024
 blank-value:
@@ -9,7 +9,7 @@ blank-value:
 
 !!! success "Prerequisites"
 
-    Ensure you have completed the [SDK installation guide](unity-sdk-download.md) and added the Initi Playground package to your project.
+    Ensure you have completed the [SDK installation guide](unity-sdk-download.md) and added the INITI Playground package to your project.
 
 ## Project settings
 
@@ -20,7 +20,7 @@ The first step is to ensure that the Player runs in the background, which is esp
 
 ## Add Initi Playground SDK to the scene
 
-- Find the Initi Playground SDK prefab in `Packages > Initi Playground > Runtime > Prefabs`, then drag and drop it into the scene.
+- Find the INITI Playground SDK prefab in `Packages > Initi Playground > Runtime > Prefabs`, then drag and drop it into the scene.
 
 ![Add SDK prefab](assets/sdk-setup-locate-in-packages.png "Add SDK prefab"){: .center }
 

@@ -10,7 +10,7 @@ To switch to a different game or return to the main menu, you must first exit th
 
 ## Using the wireless keyboard
 
-- One way to exit a game is by pressing the `ESC` key on your wireless keyboard. This will close the game and return the **INITI Playground** to the main menu.
+- One way to exit a game is by pressing the `ESC` key on your wireless keyboard. This will close the game and return the INITI Playground to the main menu.
 
 ## Using touch
 

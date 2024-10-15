@@ -7,7 +7,7 @@ blank-value:
 # Pre-made behaviour scripts
 
 
-In this chapter, we will explore the pre-made behavior scripts provided by the Initi Playground SDK. These scripts are designed to streamline the development process by offering ready-to-use functionality for common interactive elements. Each script has specific uses and can help you quickly add interactivity to your game.
+In this chapter, we will explore the pre-made behavior scripts provided by the INITI Playground SDK. These scripts are designed to streamline the development process by offering ready-to-use functionality for common interactive elements. Each script has specific uses and can help you quickly add interactivity to your game.
 
 ## Shared properties
 
@@ -22,7 +22,7 @@ Each behavior script, whether pre-made or custom-built in the future, begins by 
 
 ## Spawn effect
 
-One of the most straightforward and frequently used behaviors in the **Initi Playground SDK** is the `Spawn Effect` behavior. You can locate it by navigating to **Initi > Behaviour > SpawnEffect**. This behavior triggers a new effect prefab and plays a sound whenever the object is hit. Let's take a closer look at the parameters of this behavior to understand how to customize it for your needs.
+One of the most straightforward and frequently used behaviors in the INITI Playground SDK is the `Spawn Effect` behavior. You can locate it by navigating to **Initi > Behaviour > SpawnEffect**. This behavior triggers a new effect prefab and plays a sound whenever the object is hit. Let's take a closer look at the parameters of this behavior to understand how to customize it for your needs.
 
 ![Spawn Effect](assets/behaviours-spawn-effect.png "Spawn Effect"){: .center }
 
@@ -133,7 +133,7 @@ The final pre-made behavior is the `Spawn Objects` behavior. While it comes with
 </div>
 
 
-This concludes our chapter on the pre-made behavior scripts included with the **Initi Playground SDK**. These scripts are designed to help you get started quickly with interactive elements in your project. In the next chapter, we will explore the pre-made utility scripts available in the SDK.
+This concludes our chapter on the pre-made behavior scripts included with the INITI Playground SDK. These scripts are designed to help you get started quickly with interactive elements in your project. In the next chapter, we will explore the pre-made utility scripts available in the SDK.
 
 
 ----

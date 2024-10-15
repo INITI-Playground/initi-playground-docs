@@ -1,12 +1,12 @@
 Title:   Video tutorials
-Summary: List of video tutorials for Initi Playground
+Summary: List of video tutorials for INITI Playground
 Authors: Ondrej Prucha
 Date:    July 25, 2024
 blank-value:
 
 # Video tutorials
 
-The `Tutorials` section provides users with quick and easy access to instructional videos that help with various settings and features of the Initi Playground. These tutorials are designed to offer step-by-step guidance, making it easier to understand and configure the system to suit your needs.
+The `Tutorials` section provides users with quick and easy access to instructional videos that help with various settings and features of the INITI Playground. These tutorials are designed to offer step-by-step guidance, making it easier to understand and configure the system to suit your needs.
 
 ## How to Access and Use Video Tutorials
 
@@ -18,7 +18,7 @@ The `Tutorials` section provides users with quick and easy access to instruction
 </div>
 
 
-- You will see a list of available video tutorials covering different aspects of the Initi Playground. These may include topics such as configuration, calibration and game selection.
+- You will see a list of available video tutorials covering different aspects of the INITI Playground. These may include topics such as configuration, calibration and game selection.
 - Click on a tutorial to watch it.. 
 
 

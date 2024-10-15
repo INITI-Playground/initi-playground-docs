@@ -6,12 +6,12 @@ blank-value:
 
 #Choosing aspect ratio
 
-Before starting the sensor calibration process, it is essential to select the correct aspect ratio for your projection. Calibration is highly dependent on the projection size, so the Initi Playground must be recalibrated each time the aspect ratio is changed.
+Before starting the sensor calibration process, it is essential to select the correct aspect ratio for your projection. Calibration is highly dependent on the projection size, so the INITI Playground must be recalibrated each time the aspect ratio is changed.
 
 ## Supported aspect ratios
 
 
-**Initi Playground** supports four aspect ratios
+INITI Playground supports four aspect ratios
 
 | Aspect Ratio| 16:9 | 16:10 | 4:3 | 5:4 |
 |:-----------:|:----:|:-----:|:---:|:---:|

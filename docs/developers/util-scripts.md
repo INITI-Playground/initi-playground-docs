@@ -97,7 +97,7 @@ A utility script that animates a sequence of sprites at a specified frame rate. 
 
 </div>
 
-Combined with the pre-made behaviors, these utility scripts will help you quickly set up a simple, game-ready environment in **Initi Playground**. In the next section, we’ll explore how you can extend this functionality by implementing interactive objects with custom logic.
+Combined with the pre-made behaviors, these utility scripts will help you quickly set up a simple, game-ready environment in INITI Playground. In the next section, we’ll explore how you can extend this functionality by implementing interactive objects with custom logic.
 
 <br />
 

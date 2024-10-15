@@ -1,5 +1,5 @@
 Title:   Get started
-Summary: Get started using Initi Playground
+Summary: Get started using INITI Playground
 Authors: Ondrej Prucha
 Date:    July 19, 2024
 blank-value:
@@ -17,15 +17,15 @@ The UI is divided into two main sections: Games and Settings. These can be easil
 
 === "Games tab"
 
-    ![Initi Playground games tab](assets/ui-games.jpg "Initi Playground")
+    ![INITI Playground games tab](assets/ui-games.jpg "INITI Playground")
 
-    **Games tab** is your gateway to the interactive experiences available on your Initi Playground. Using this tab, you can browse and launch games either with a mouse or by directly touching the wall.
+    **Games tab** is your gateway to the interactive experiences available on your INITI Playground. Using this tab, you can browse and launch games either with a mouse or by directly touching the wall.
 
 === "Settings tab"
 
-    ![Initi Playground settings tab](assets/ui-settings.jpg "Initi Playground")
+    ![INITI Playground settings tab](assets/ui-settings.jpg "INITI Playground")
 
-    In the **Settings tab** you can customize your system preferences, calibrate touch sensor and manage updates. The Settings tab ensures that Initi Playground is always optimized for the best performance and user experience.
+    In the **Settings tab** you can customize your system preferences, calibrate touch sensor and manage updates. The Settings tab ensures that INITI Playground is always optimized for the best performance and user experience.
 
 </div>
 

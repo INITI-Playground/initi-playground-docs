@@ -1,5 +1,5 @@
 Title:   Starting games
-Summary: How to select and start Initi Playground games
+Summary: How to select and start INITI Playground games
 Authors: Ondrej Prucha
 Date:    July 23, 2024
 blank-value:

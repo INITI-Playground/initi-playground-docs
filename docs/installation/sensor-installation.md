@@ -16,14 +16,21 @@ There are two ways to install the INITI Playground sensor: mounting it to the ce
       - First, screw the front part of the holder directly to the wall.
       - Secure the rest of the holder to the front part using two nuts and tighten them firmly.
 
+------------
+
 <div style='width: 70%' class="center" markdown>
-![Mounting sensor](assets/sensor-mounting.png "Mounting sensor")
+![Mounting sensor](assets/sensor-mounting.jpg "Mounting sensor")
 </div>
+
+
+---------
+
 
 <div style='width: 70%' class="center" markdown>
 ![Sensor wiring](assets/sensor-plan.jpg "Sensor wiring")
 </div>
 
+-----------
 
 
 In both cases, ensure that the top of the sensor is approximately 3 cm from the projection wall. The sensor uses an invisible laser beam that should rotate as parallel as possible to the wall for optimal performance.

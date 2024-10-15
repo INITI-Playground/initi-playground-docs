@@ -1,12 +1,12 @@
 Title:   Connecting to the internet
-Summary: How to connect Initi Playground using Wi-Fi
+Summary: How to connect INITI Playground using Wi-Fi
 Authors: Ondrej Prucha
 Date:    July 21, 2024
 blank-value:
 
 # Connecting to the internet
 
-Initi Playground supports automatic updates. To receive notifications when a new update is available, you will need to be connected to the internet via Wi-Fi.
+INITI Playground supports automatic updates. To receive notifications when a new update is available, you will need to be connected to the internet via Wi-Fi.
 
 ## Locating Wi-Fi settings
 

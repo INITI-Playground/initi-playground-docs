@@ -6,7 +6,7 @@ blank-value:
 
 # Sound settings
 
-The Sound Settings section enables users to configure audio options for the Initi Playground, including adjusting the master volume and selecting the output device.
+The Sound Settings section enables users to configure audio options for the INITI Playground, including adjusting the master volume and selecting the output device.
 
 ## Locating sound settings
 
@@ -29,7 +29,7 @@ The Sound Settings section enables users to configure audio options for the Init
 
 ## Adjust volume
 
-Find the `VOLUME` slider and adjust it to set the overall volume level for the Initi Playground. 
+Find the `VOLUME` slider and adjust it to set the overall volume level for the INITI Playground. 
 !!! note
     Please note that this controls the general volume. Individual games also have their own settings menus where you can adjust game-specific volume and other related settings.
 

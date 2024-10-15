@@ -6,7 +6,7 @@ blank-value:
 
 # Exit button configuration
 
-The exit button is included in all games that come with the Initi Playground. It allows users to exit a game and return to the main menu, providing a control over the interactive experience. It can be toggled on or off based on whether games should be started and switched by the players or by the operator.
+The exit button is included in all games that come with the INITI Playground. It allows users to exit a game and return to the main menu, providing a control over the interactive experience. It can be toggled on or off based on whether games should be started and switched by the players or by the operator.
 
 ## Locating exit button settings
 

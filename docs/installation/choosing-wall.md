@@ -1,5 +1,5 @@
 Title:   Choosing wall
-Summary: Choosing the best wall for Initi Playground
+Summary: Choosing the best wall for INITI Playground
 Authors: Ondrej Prucha
 Date:    July 25, 2024
 blank-value:
@@ -12,7 +12,7 @@ When selecting a wall for your INITI Playground setup, there are a few important
 - **Flat Surface:** The wall must be as flat as possible to avoid disruptions in the interactive experience. Uneven surfaces can interfere with projection quality and touch recognition.
 - **Minor Obstacles:** Small obstacles, such as electrical outlets or light switches, are acceptable as long as they don't protrude more than **5 cm** from the surface. These should not affect the touch recognition.
 
-Choosing the right wall is key to ensuring a smooth and enjoyable interactive experience for players. For a detailed explanation, be sure to check the video below on selecting the right wall for **INITI Playground**.
+Choosing the right wall is key to ensuring a smooth and enjoyable interactive experience for players. For a detailed explanation, be sure to check the video below on selecting the right wall for INITI Playground.
 
 
 <br />

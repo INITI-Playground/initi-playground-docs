@@ -1,5 +1,5 @@
 ---
-title: Initi Playground
+title: INITI Playground
 template: home.html
 ---
 

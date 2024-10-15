@@ -8,7 +8,7 @@ blank-value:
 
 ## Adding custom interactive objects
 
-To create custom interactive objects with unique behaviors, you’ll need to extend the `BaseHittable` class, the base class of all interactive objects in **Initi Playground**. By extending `BaseHittable`, you can implement your own logic that responds to hits or touches, giving you complete control over how your objects react to user interactions.
+To create custom interactive objects with unique behaviors, you’ll need to extend the `BaseHittable` class, the base class of all interactive objects in INITI Playground. By extending `BaseHittable`, you can implement your own logic that responds to hits or touches, giving you complete control over how your objects react to user interactions.
 
 This flexibility allows you to create everything from simple reactions to complex sequences of events, tailored specifically to your game's needs. If you want to add custom animations, trigger specific audio effects, or implement gameplay mechanics, you will need to extend `BaseHittable` class and override the `Hit(Vector3 hitPosition)` method.
 
@@ -235,14 +235,14 @@ Creating custom miss logic can be useful if you want to replace the default effe
 
 ----
 
-With this knowledge, you're ready to begin developing your games for **Initi Playground**. If you have any questions or need assistance, please don't hesitate to reach out via the [contact form](../help/contact.md) in the **Help** section. In the next part of this documentation, we'll cover how to install and uninstall your custom games to **Initi Playground** so you can start playing them.
+With this knowledge, you're ready to begin developing your games for INITI Playground. If you have any questions or need assistance, please don't hesitate to reach out via the [contact form](../help/contact.md) in the **Help** section. In the next part of this documentation, we'll cover how to install and uninstall your custom games to INITI Playground so you can start playing them.
 
 
 
 <br />
 
 <div class="center" markdown>
-[Installing games to Initi Playground](installing-games.md){ .md-button }
+[Installing games to INITI Playground](installing-games.md){ .md-button }
 </div>
 
 <br />

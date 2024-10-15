@@ -16,7 +16,7 @@ If you don't find what you're looking for in the [FAQ](faq.md) section, don't wo
 <br />
 
 <div style='width: 50%' class="center" markdown>
-![Get help](assets/help.png "Get help")
+![Get help](assets/ip-hardware.png "Get help")
 </div>
 
 

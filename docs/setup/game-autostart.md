@@ -6,7 +6,7 @@ blank-value:
 
 # Automatically start games on system power-up
 
-The Initi Playground can be set to automatically launch a designated game upon power-up. This feature makes it perfect for environments such as museums or amusement parks, where seamless, user-independent operation is essential.
+The INITI Playground can be set to automatically launch a designated game upon power-up. This feature makes it perfect for environments such as museums or amusement parks, where seamless, user-independent operation is essential.
 
 ## Locating auto game launch
 
@@ -19,7 +19,7 @@ The Initi Playground can be set to automatically launch a designated game upon p
 </div>
 
 
-With this configuration, the Initi Playground can operate independently, providing an uninterrupted and engaging experience for visitors in public spaces.
+With this configuration, the INITI Playground can operate independently, providing an uninterrupted and engaging experience for visitors in public spaces.
 
 ----
 

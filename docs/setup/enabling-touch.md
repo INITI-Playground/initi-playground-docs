@@ -27,7 +27,7 @@ Enabling touch creates a more interactive experience, allowing users to select a
 
 ## Disable touch
 
-Sometimes it is preferable to disable touch functionality to prevent users from switching games, thereby giving control over Initi Playground to the supervisor. In such cases, it is advisable to turn off touch and allow the supervisor to select games using a wireless keyboard.
+Sometimes it is preferable to disable touch functionality to prevent users from switching games, thereby giving control over INITI Playground to the supervisor. In such cases, it is advisable to turn off touch and allow the supervisor to select games using a wireless keyboard.
 
 - Open the UI and navigate to the `Games` tab at the top of the screen.
 - In the `Games` tab, click the touch icon in the top right corner, as illustrated in the picture below.

@@ -8,7 +8,7 @@ blank-value:
 
 Advanced sensor calibration allows you to fine-tune the calibration using a grid-based warping input. This process is optional but highly beneficial when the wall is not perfectly flat or when certain areas of the projection require higher precision in touch positioning and visual response alignment.
 
-## Starting adanced calibration
+## Starting advanced calibration
 
 - Open the UI and navigate to the `Settings` tab located at the top of the screen.
 - Find and click on the `Advanced Calibration` section.
@@ -92,7 +92,7 @@ For additional guidance, check out our video tutorial below.
 
 <br />
 
-Now that the sensor is successfully calibrated, it's time to move on to the next step: connecting your Initi Playground to the internet. This will enable you to access updates or download new games. Proceed to the [next section](connecting-to-the-internet.md) for detailed instructions on how to connect your system to the internet.
+Now that the sensor is successfully calibrated, it's time to move on to the next step: connecting your INITI Playground to the internet. This will enable you to access updates or download new games. Proceed to the [next section](connecting-to-the-internet.md) for detailed instructions on how to connect your system to the internet.
 
 ----
 

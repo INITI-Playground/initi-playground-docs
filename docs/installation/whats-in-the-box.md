@@ -1,12 +1,12 @@
 Title:   Unboxing the INITI Playground
-Summary: List of parts for Initi Playground
+Summary: List of parts for INITI Playground
 Authors: Ondrej Prucha
 Date:    July 25, 2024
 blank-value:
 
 # Unboxing the INITI Playground
 
-To get started with your **INITI Playground**, we’ve created a video that walks you through the unboxing process and showcases everything included in the box. Watching this video will give you a clear understanding of all the components that come with your system, ensuring you have everything you need before beginning installation.
+To get started with your INITI Playground, we’ve created a video that walks you through the unboxing process and showcases everything included in the box. Watching this video will give you a clear understanding of all the components that come with your system, ensuring you have everything you need before beginning installation.
 
 <br />
 <div style='width: 70%' class="center" markdown>
@@ -16,7 +16,7 @@ To get started with your **INITI Playground**, we’ve created a video that walk
 </div>
 
 <br />
-In addition to the video, here’s a list of items included in the **INITI Playground** package:
+In addition to the video, here’s a list of items included in the INITI Playground package:
 
 
 <div class="center" markdown>

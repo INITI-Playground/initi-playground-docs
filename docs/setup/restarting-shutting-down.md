@@ -1,13 +1,13 @@
 Title:   Restart and Shutdown
-Summary: How to restart or shut down Initi Playground
+Summary: How to restart or shut down INITI Playground
 Authors: Ondrej Prucha
 Date:    August 20, 2024
 blank-value:
 
 
-# How to restart or shut down Initi Playground
+# How to restart or shut down INITI Playground
 
-- To shut down or restart the Initi Playground, simply locate and click the shutdown icon in the top-right corner, as shown in the picture.
+- To shut down or restart the INITI Playground, simply locate and click the shutdown icon in the top-right corner, as shown in the picture.
 
 
 <div style='width: 70%' class="center" markdown>
