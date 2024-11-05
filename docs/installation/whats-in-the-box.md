@@ -9,7 +9,7 @@ blank-value:
 To get started with your INITI Playground, we’ve created a video that walks you through the unboxing process and showcases everything included in the box. Watching this video will give you a clear understanding of all the components that come with your system, ensuring you have everything you need before beginning installation.
 
 <br />
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/996655227?h=3d920869c5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Gaming console, UNBOXING"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>

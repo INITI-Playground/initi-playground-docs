@@ -30,7 +30,7 @@ INITI Playground supports four aspect ratios
     - In the Settings menu, locate the section for aspect ratio settings.
     - Select the desired aspect ratio (5:4, 4:3, 16:9, or 16:10) from the available options.
 
-        <div style='width: 70%' markdown>
+        <div class="imageWidth" markdown>
         ![Selecting aspect ratio](assets/aspect-ratio.jpg "Selecting aspect ratio")
         </div>
 
@@ -38,7 +38,7 @@ INITI Playground supports four aspect ratios
 
     - After changing the aspect ratio, the sensor calibration must be redone. Click `OK` to proceed.
 
-        <div style='width: 70%' markdown>
+        <div class="imageWidth" markdown>
         ![Confirm aspect ratio](assets/aspect-ratio-confirm.png "Confirm aspect ratio")
         </div>
 

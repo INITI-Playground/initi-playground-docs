@@ -48,6 +48,16 @@
     text-align: center;
 }
 
+.imageWidth {
+    width: 100%;
+}
+
+@media screen and (min-width: 640px) { 
+    .imageWidth {
+        width: 70%;
+    }
+}
+
 .md-typeset .admonition,
 .md-typeset details {
   border-width: 1px;

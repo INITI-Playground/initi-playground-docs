@@ -18,7 +18,7 @@ There are two ways to install the INITI Playground sensor: mounting it to the ce
 
 ------------
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Mounting sensor](assets/sensor-mounting.jpg "Mounting sensor"){ .on-glb } 
 </div>
 
@@ -26,7 +26,7 @@ There are two ways to install the INITI Playground sensor: mounting it to the ce
 ---------
 
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Sensor wiring](assets/sensor-plan.jpg "Sensor wiring"){ .on-glb } 
 </div>
 
@@ -41,7 +41,7 @@ In both cases, ensure that the top of the sensor is approximately 3 cm from the 
 
 For a visual guide, please refer to the video below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/796039598?h=f8dad1db6a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Sensor installation"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>

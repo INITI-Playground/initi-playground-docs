@@ -15,7 +15,7 @@ blank-value:
 - Open the UI and click on the `Settings` tab located at the top of the screen
 - In the Settings menu, navigate to the `About` section. Here, you'll find general information about your INITI Playground, including the version, hardware key, and current status, as illustrated in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Getting updates](assets/get-updates-up-to-date.png "Getting updates")
 </div>
 
@@ -28,7 +28,7 @@ blank-value:
 
 If there are any connection issues, an error message will appear, as shown in the next screenshot. In this case, please check your Wi-Fi connection or revisit the [Connecting to the Internet](connecting-to-the-internet.md) section.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Connection issues](assets/get-updates-offline.png "Connection issues")
 </div>
 
@@ -36,7 +36,7 @@ If there are any connection issues, an error message will appear, as shown in th
 
 If a new version is available, you'll see a notification on the updates icon in the top right corner, as shown in the next screenshot. To download and install the new version, simply click the `UPDATE` button. The INITI Playground will download and install the update, automatically reset, and launch the new version.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![New version available](assets/get-updates-new-version.png "New version available")
 </div>
 

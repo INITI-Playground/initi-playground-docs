@@ -16,7 +16,7 @@ If you encounter issues with INITI Playground that cannot be resolved through st
 - **Continue holding** the key for approximately **10 seconds**.
 - After holding the `R` **key** for the required duration, the INITI Playground will automatically begin the reset process, as shown in the following image.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Shutdown options](assets/factory-reset.png "Shutdown options")
 </div>
 

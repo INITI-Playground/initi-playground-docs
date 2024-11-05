@@ -10,13 +10,13 @@ blank-value:
 - To shut down or restart the INITI Playground, simply locate and click the shutdown icon in the top-right corner, as shown in the picture.
 
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Shutdown button](assets/shutdown-button.jpg "Shutdown button")
 </div>
 
 - A dialog box will then appear with options to restart, shut down, or cancel. Select the action you wish to perform by clicking the corresponding button.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Shutdown options](assets/shutdown-options.png "Shutdown options")
 </div>
 

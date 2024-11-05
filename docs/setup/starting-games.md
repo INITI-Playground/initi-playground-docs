@@ -13,13 +13,13 @@ Once the playground setup and calibration are complete, you likely won't need to
 - Navigate to the `Games` tab at the top of the screen.
 - Use the touchpad on the wireless keyboard to select the game you want to launch. You can navigate through the games using the arrows on the left and right or by clicking the small icons at the bottom of the screen, as illustrated in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Starting games](assets/starting-games.jpg "Starting games")
 </div>
 
 - Once you’ve selected the game, click the play button located in the center of the screen to launch it.
   
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Launch a game](assets/starting-games-play.jpg "Launch a game")
 </div>
 
@@ -32,7 +32,7 @@ Once the playground setup and calibration are complete, you likely won't need to
 - For further assistance, you can also watch the video tutorial provided below.
 
 
-<div style='width: 70%' class="center">
+<div class="center imageWidth">
 <div style="padding:56.25% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/796039664?h=1372ba22bb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Starting the game"></iframe>
 </div>

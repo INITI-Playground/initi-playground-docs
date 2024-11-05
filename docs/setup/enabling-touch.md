@@ -13,13 +13,13 @@ Enabling touch creates a more interactive experience, allowing users to select a
 - Open the UI and navigate to the `Games` tab at the top of the screen.
 - In the `Games` tab, click the touch icon in the top right corner, as illustrated in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Enable touch](assets/enable-touch-disabled.jpg "Enable touch")
 </div>
 
 - Click `OK` to confirm
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Enable touch confirm](assets/enable-touch-confirm-on.png "Enable touch confirm")
 </div>
 
@@ -32,13 +32,13 @@ Sometimes it is preferable to disable touch functionality to prevent users from 
 - Open the UI and navigate to the `Games` tab at the top of the screen.
 - In the `Games` tab, click the touch icon in the top right corner, as illustrated in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Disable touch](assets/enable-touch-enabled.jpg "Disable touch")
 </div>
 
 - Click `OK` to confirm
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Disable touch confirm](assets/enable-touch-confirm-off.png "Disable touch confirm")
 </div>
 

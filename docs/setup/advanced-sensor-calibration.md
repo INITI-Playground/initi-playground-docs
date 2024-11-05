@@ -14,7 +14,7 @@ Advanced sensor calibration allows you to fine-tune the calibration using a grid
 - Find and click on the `Advanced Calibration` section.
 - Click `START CALIBRATION` button
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Start advanced calibration confirm](assets/advanced-calibration-start.jpg "Start advanced calibration")
 </div>
 
@@ -40,7 +40,7 @@ To fine-tune the calibration, use the mouse and keyboard to adjust the grid. Bel
 
 To adjust the grid, select the points you want to move and reposition them using the arrow keys. You can select individual points, multiple points, or entire horizontal and vertical lines. Additionally, you can reset specific points to their default (unwarped) positions by selecting them and pressing the `R` key. Below are some examples:
 
-<div class="center" style='width: 70%' markdown>
+<div class="center imageWidth" markdown>
 
 === "Selecting points"
 
@@ -60,7 +60,7 @@ To adjust the grid, select the points you want to move and reposition them using
 
 During the grid setup, it's important to test the calibration by touching the wall. When you touch the wall, a blue cross should appear at the point of contact, ensuring accurate alignment between touch position and visual response. It is recommended to perform this test with an assistant: one person adjusts the grid while the other touches the wall to see where the hit is registered. Refer to the image below for an illustration of this process.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Testing advanced calibration](assets/advanced-calibration-testing.jpg "Testing advanced calibration")
 </div>
 
@@ -69,13 +69,13 @@ During the grid setup, it's important to test the calibration by touching the wa
 
 To discard the current advanced calibration, click the `Reset Calibration` button at the bottom of the screen.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Reset advanced calibration](assets/advanced-calibration-start2.jpg "Reset advanced calibration")
 </div>
 
 To prevent accidental resets, you will need to confirm this action by clicking `OK`
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Reset advanced calibration confirm](assets/advanced-calibration-reset.png "Reset advanced calibration confirm")
 </div>
 
@@ -83,7 +83,7 @@ To prevent accidental resets, you will need to confirm this action by clicking `
 
 For additional guidance, check out our video tutorial below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/796039649?h=7870536d0d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Advanced"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>

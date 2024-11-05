@@ -13,7 +13,7 @@ The exit button is included in all games that come with the INITI Playground. It
 - Open the UI and navigate to the `Settings` tab at the top of the screen.
 - In the `General` settings menu, find the section dedicated to Exit Button Configuration, as shown in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Exit button location](assets/exit-button-location.jpg "Exit button location")
 </div>
 
@@ -21,7 +21,7 @@ The exit button is included in all games that come with the INITI Playground. It
 
 You can configure the exit button to be positioned on the `LEFT`, on the `RIGHT`, or `DISABLED` entirely based on your preferences. Enabling the exit button allows players to control when to end a game session and return to the main menu.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Exit button](assets/exit-button-position.jpg "Exit button")
 </div>
 
@@ -33,7 +33,7 @@ By adjusting the exit button location slider, you can control its vertical posit
 To get visual feedback on the exit button's location in settings, see the "Exit Button in the Game" placeholder. When you start a game, the exit button will appear in the same spot as shown in the settings. This is illustrated in the following screenshots.
 
 
-<div class="center" style='width: 70%' markdown>
+<div class="center imageWidth" markdown>
 
 === "In settings"
 

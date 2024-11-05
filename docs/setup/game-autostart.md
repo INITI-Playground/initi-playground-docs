@@ -14,7 +14,7 @@ The INITI Playground can be set to automatically launch a designated game upon p
 - In the `General` settings menu, find the `AUTO GAME LAUNCH` drop down list, as shown in the picture below.
 - Select the game you want to automatically start after the system powers on from the dropdown list. To disable the automatic game start, choose `OFF` from the list.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Automatically start games](assets/automatically-start-games.jpg "Automatically start games")
 </div>
 

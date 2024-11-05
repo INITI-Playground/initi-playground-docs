@@ -10,7 +10,7 @@ Calibrating the sensor is essential to ensure that touch positions accurately co
 
 - Open the UI and click on the `Settings` tab at the top of the screen. Locate the sensor calibration section, as illustrated in the picture below.
  
-    <div style='width: 70%' class="center" markdown>
+    <div class="center imageWidth" markdown>
     ![Sensor calibration](assets/sensor-calibration.png "Sensor calibration")
     </div>
 
@@ -24,7 +24,7 @@ For sensor calibration, it's best to have an assistant help by touching each of 
 
 For a detailed demonstration of the sensor calibration process, please check the video below. It will guide you step-by-step through the setup.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
 <iframe src="https://player.vimeo.com/video/796039626?h=3af54663d2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Sensor calibration"></iframe></div>
 <script src="https://player.vimeo.com/api/player.js"></script>
@@ -37,13 +37,13 @@ For a detailed demonstration of the sensor calibration process, please check the
 
 To discard the current calibration and start over, click the `Reset Calibration` button at the bottom of the screen.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Reset calibration](assets/sensor-calibration-reset.png "Reset calibration")
 </div>
 
 To prevent accidental resets, you will need to confirm this action by clicking `OK`
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Reset calibration confirm](assets/sensor-calibration-reset-confirm.png "Reset calibration confirm")
 </div>
 

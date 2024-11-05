@@ -13,7 +13,7 @@ The `Tutorials` section provides users with quick and easy access to instruction
 - Open the UI and navigate to the `Settings` tab at the top of the screen.
 - In the `Settings` menu, find and click on the `Tutorials` section.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Video tutorials](assets/tutorials.png "Video tutorials")
 </div>
 

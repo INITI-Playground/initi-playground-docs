@@ -13,7 +13,7 @@ The Sound Settings section enables users to configure audio options for the INIT
 - Open the UI and navigate to the `Settings` tab at the top of the screen.
 - In the `General` settings menu, find the sound section, as shown in the picture below.
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Sound settings](assets/sound-settings.jpg "Sound settings")
 </div>
 
@@ -23,7 +23,7 @@ The Sound Settings section enables users to configure audio options for the INIT
 - In the sound section, find the `SOUND OUTPUT` dropdown list.
 - Select your preferred sound output device from the list (e.g., internal speakers, external speakers, projector, headphones).
 
-<div style='width: 70%' class="center" markdown>
+<div class="center imageWidth" markdown>
 ![Sound settings opened](assets/sound-settings-opened.jpg "Sound settings opened")
 </div>
 
