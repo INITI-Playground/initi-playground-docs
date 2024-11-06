@@ -7,7 +7,7 @@ blank-value:
 
 # Download INITI Playground SDK for Unity
 
-The INITI Playground SDK is available as a package for the Unity engine on our [GitHub page](https://google.com). To get started, you will need to add it to your project using the Unity Package Manager.
+The INITI Playground SDK is available as a package for the Unity engine on our [GitHub page](https://github.com/INITI-Playground/INITIPlaygroundSDK-UnityPackage). To get started, you will need to add it to your project using the Unity Package Manager.
 
 ## Adding package from git URL
 
@@ -23,7 +23,7 @@ The INITI Playground SDK is available as a package for the Unity engine on our [
 - Paste the git URL and click `Add`
 
 ```
-https://github.com/initi/InitiPlaygroundSDK-UnityPackage.git
+https://github.com/INITI-Playground/INITIPlaygroundSDK-UnityPackage.git
 ```
 
 - Unity will download the package and add it into your project
@@ -34,7 +34,7 @@ https://github.com/initi/InitiPlaygroundSDK-UnityPackage.git
 
 ## Adding package from disk
 
-- Visit our [GitHub repository](https://google.com)
+- Visit our [GitHub repository](https://github.com/INITI-Playground/INITIPlaygroundSDK-UnityPackage)
 - Navigate to the Releases section.
 - Download and unzip the latest release
 
