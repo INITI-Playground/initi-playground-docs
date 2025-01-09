@@ -113,7 +113,14 @@
           mask-image: var(--md-admonition-icon--custom-faq);
 }
 
+html .md-footer-meta.md-typeset a {
+    color: #0bbdff;
+}
 
+html .md-footer-meta.md-typeset a:hover {
+    color: #66d5ff;
+    text-decoration: underline;
+}
 
 .md-typeset .admonition.custom-tip,
 .md-typeset details.custom-tip {
