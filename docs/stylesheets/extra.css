@@ -115,6 +115,7 @@
 
 html .md-footer-meta.md-typeset a {
     color: #0bbdff;
+    text-decoration: underline;
 }
 
 html .md-footer-meta.md-typeset a:hover {
