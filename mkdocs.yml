@@ -4,6 +4,7 @@ copyright: Copyright &copy; 2024 Initi Interactive s.r.o.
 site_description: Documentation for the INITI Playground
 
 theme:
+  font: false
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -18,9 +19,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-  font:
-    text: Rotunda
-    code: Roboto Mono
+
   icon:
     annotation: material/arrow-right-circle
   name: material
