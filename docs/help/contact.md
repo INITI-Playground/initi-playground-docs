@@ -7,7 +7,7 @@ template: contact.html
 # Contact us
 
 <form class="w-full max-w-lg" id="contact-form" method="POST">
-  <input type="hidden" name="access_key" value="1b9ef1de-4cc9-4caa-926d-50da4a10d4b8">
+  <input type="hidden" name="access_key" value="068bf6fb-3d8b-4d74-94f9-54ce4151708c">
   <div class="flex flex-wrap -mx-3 mb-4">
     <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
       <label class="block uppercase tracking-wide text-gray-700 text-xs font-bold mb-1" for="grid-first-name">
