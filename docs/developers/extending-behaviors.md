@@ -242,7 +242,7 @@ With this knowledge, you're ready to begin developing your games for INITI Playg
 <br />
 
 <div class="center" markdown>
-[Installing games to INITI Playground](installing-games.md){ .md-button }
+[Preparing games for installation](preparing-games.md){ .md-button }
 </div>
 
 <br />

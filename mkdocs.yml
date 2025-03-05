@@ -1,6 +1,6 @@
 site_name: INITI Playground docs
 site_url: https://docs.initiplayground.com
-copyright: Copyright &copy; 2024 Initi Interactive s.r.o.
+copyright: Copyright &copy; 2025 Initi Interactive s.r.o.
 site_description: Documentation for the INITI Playground
 
 theme:
@@ -119,9 +119,10 @@ nav:
         - 'Pre-made behaviour scripts': 'developers/behaviour-scripts.md'
         - 'Pre-made utility scripts': 'developers/util-scripts.md'
         - 'Extending functionality': 'developers/extending-behaviors.md'
-#      - Managing custom games:
-#        - Installing custom games: 'developers/installing-games.md'
-#        - Uninstalling custom games: 'developers/uninstalling-games.md'
+      - Managing custom games:
+        - Preparing games for installation: 'developers/preparing-games.md'
+        - Installing custom games: 'developers/installing-games.md'
+        - Uninstalling custom games: 'developers/uninstalling-games.md'
   - Help: 
     - 'help/index.md'
     - 'FAQ': 'help/faq.md'
