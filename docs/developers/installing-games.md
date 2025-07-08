@@ -8,6 +8,19 @@ blank-value:
 
 This guide will walk you through the process of installing a game on INITI Playground using a USB drive.
 
+## Video guide
+
+- For a quick start, check out our video guide:
+  
+    <br />
+    <div class="center imageWidth" markdown>
+    <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/1087815636?h=7847542ed9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INITI Playground - Choosing the best wall for the game"></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    </div>
+    <br />
+
+
 ## Prerequisites
 
 Before installing the game, ensure you have completed the following steps:
@@ -79,6 +92,7 @@ Before installing the game, ensure you have completed the following steps:
     <div class="center imageWidth" markdown>
     ![Game update popup](assets/installing-game-update-popup.jpg "Game update popup")
     </div>
+
 
 
 In the following section, we will cover how to remove games from INITI Playground.
