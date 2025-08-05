@@ -12,6 +12,8 @@ Since every space has unique dimensions and lighting conditions, the projector i
 - **Projector Brightness:** Ensure the projector is bright enough for the lighting conditions of your space. A higher brightness (measured in lumens) will be necessary in environments with strong ambient light to maintain clear visibility of the projection.
 - **Resolution:** A minimum resolution of Full HD (1080p) is recommended for INITI Playground, but the system also supports higher resolutions, including 4K, for enhanced visual clarity and detail.
 
+!!! success "Recommended Projectors"
+     We've put together an updated list of projectors that work great with the INITI Playground gaming console. [Click here to view the document](https://docs.google.com/spreadsheets/d/1i94XRj2e5Q2ARqUl3iHwc1vLIFqblyI3hX0YPx9Ky0M){:target="_blank"}.
 
 For a visual guide on selecting the right projector, please check the video below. If you have any questions or need further assistance, feel free to [contact us](../help/contact.md) — we're happy to help!
 
