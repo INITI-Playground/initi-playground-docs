@@ -4,25 +4,41 @@ Authors: Ondrej Prucha
 Date:    July 20, 2024
 blank-value:
 
-# Sensor calibration
+# Sensor Calibration
 
-Calibrating the sensor is essential to ensure that touch positions accurately correspond with the visual responses in games. These steps will guide you through the calibration process:
+Calibrating the sensor ensures that touch positions accurately correspond with the visual responses in games. Follow the steps below to complete the calibration process.
 
-- Open the UI and click on the `Settings` tab at the top of the screen. Locate the sensor calibration section, as illustrated in the picture below.
- 
-    <div class="center imageWidth" markdown>
-    ![Sensor calibration](assets/sensor-calibration.png "Sensor calibration")
-    </div>
+---
 
-    !!! info
-        The red arrow in the top center indicates the ideal location for mounting the sensor. While it is not mandatory to place the sensor in this exact spot, the best results are achieved when the sensor is positioned in the middle of the projection.
+## Open the Settings Tab
 
+Open the UI and click the `Settings` tab at the top of the screen.  
+Locate the **Sensor Calibration** section, as shown in the image below.
 
-## Initiating calibration
+<div class="center imageWidth" markdown>
+![Sensor calibration](assets/sensor-calibration.png "Sensor calibration")
+</div>
 
-For sensor calibration, it's best to have an assistant help by touching each of the four red corners of the projection one by one. Your task will be to recognize where the individual marks on the corners of the projection show up on the blue curve of the sensor. Then, using your mouse, drag corresponding corners of the green rectangle to these marks, aligning them with the peaks of the blue curve. These then define our entire touch area.
+!!! info
+    The red arrow in the top center indicates the ideal location for mounting the sensor.  
+    While placement here is not mandatory, best results are achieved when the sensor is **centered with the projection**.
 
-For a detailed demonstration of the sensor calibration process, please check the video below. It will guide you step-by-step through the setup.
+    <!-- ADDED: emphasized centering for clarity -->
+
+---
+
+## Initiating Calibration
+
+For accurate calibration, it is recommended to have an assistant help by touching each of the four red corners of the projection one by one.  
+
+Your task:
+
+1. Observe where the individual corner marks appear on the **blue curve** of the sensor.
+2. Using your mouse, drag the corresponding corners of the **green rectangle** to align with these marks, matching the peaks of the blue curve.
+
+This alignment defines the **entire touch area** for the sensor.
+
+For a detailed demonstration, watch the video below for a **step-by-step guide**.
 
 <div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
@@ -30,10 +46,13 @@ For a detailed demonstration of the sensor calibration process, please check the
 <script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
-!!! warning 
-    If you don't see the blue flickering curve or if the marks on the red corners don't appear, it's likely the sensor was installed incorrectly. Please double-check your setup by reviewing the [Sensor Installation](../installation/sensor-installation.md) video.
+!!! warning
+    If the blue flickering curve is not visible or the red corner marks do not appear, the sensor may be installed incorrectly.  
+    Please review the [Sensor Installation](../installation/sensor-installation.md) video to check your setup.
 
-## Resetting calibration
+---
+
+## Resetting Calibration
 
 To discard the current calibration and start over, click the `Reset Calibration` button at the bottom of the screen.
 
@@ -41,19 +60,20 @@ To discard the current calibration and start over, click the `Reset Calibration`
 ![Reset calibration](assets/sensor-calibration-reset.png "Reset calibration")
 </div>
 
-To prevent accidental resets, you will need to confirm this action by clicking `OK`
+To prevent accidental resets, confirm this action by clicking `OK`.
 
 <div class="center imageWidth" markdown>
 ![Reset calibration confirm](assets/sensor-calibration-reset-confirm.png "Reset calibration confirm")
 </div>
 
+---
 
+## Next Steps
 
+Now that you are familiar with the basics of calibration, including masking and testing, you’re ready to proceed.  
 
+For **more precise calibration**, explore the [Advanced Calibration](advanced-sensor-calibration.md) section to refine your setup further.
 
-<br />
-
-Now that you're familiar with the basics of calibration, including masking and testing, you're well on your way. For a more precise calibration, explore the [Advanced calibration](advanced-sensor-calibration.md) section to refine your setup further.
 
 ----
 
