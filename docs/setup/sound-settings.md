@@ -1,27 +1,26 @@
 Title:   Sound settings
 Summary: Select sound output device and set master volume
 Authors: Ondrej Prucha
-Date:    July 25, 2024
+Date:    February 23, 2026
 blank-value:
 
 # Sound settings
 
-The Sound Settings section enables users to configure audio options for the INITI Playground, including adjusting the master volume and selecting the output device.
+The Sound Settings section allows you to configure audio playback for the INITI Playground, including selecting the correct audio device and adjusting the overall system volume.
 
 ## Locating sound settings
 
 - Open the UI and navigate to the `Settings` tab at the top of the screen.
-- In the `General` settings menu, find the sound section, as shown in the picture below.
+- In the `General` settings menu, locate the **Sound** section, as shown in the image below.
 
 <div class="center imageWidth" markdown>
 ![Sound settings](assets/sound-settings.jpg "Sound settings")
 </div>
 
-
 ## Select sound output device
 
 - In the sound section, find the `SOUND OUTPUT` dropdown list.
-- Select your preferred sound output device from the list (e.g., internal speakers, external speakers, projector, headphones).
+- Select the audio device you want to use (for example internal speakers, external speakers, projector audio, or headphones).
 
 <div class="center imageWidth" markdown>
 ![Sound settings opened](assets/sound-settings-opened.jpg "Sound settings opened")
@@ -29,12 +28,20 @@ The Sound Settings section enables users to configure audio options for the INIT
 
 ## Adjust volume
 
-Find the `VOLUME` slider and adjust it to set the overall volume level for the INITI Playground. 
+Use the `VOLUME` slider to set the overall system volume for the INITI Playground.
+
 !!! note
-    Please note that this controls the general volume. Individual games also have their own settings menus where you can adjust game-specific volume and other related settings.
+    This setting controls the master volume of the system.  
+    Individual games may include their own audio settings where game-specific sounds and music levels can be adjusted separately.
 
+## Test sound output
 
-After configuring the volume and selecting the output device, click the `TEST SOUND` button. This will play a test sound to help you verify that the audio settings are correct and functioning as desired. 
+After selecting the output device and adjusting the volume, click the `TEST SOUND` button.
+
+A short test sound will play so you can confirm that:
+
+- the correct output device is selected
+- the volume level is appropriate
 
 
 
