@@ -6,15 +6,20 @@ blank-value:
 
 # Exiting games
 
-To switch to a different game or return to the main menu, you must first exit the current game. There are two methods available for exiting: using the keyboard or, if touch input is enabled, by directly interacting with the screen.
+To switch games or return to the main menu, you must first exit the current game. This can be done using a wireless keyboard or, if exit button is enabled, by interacting directly with the screen.
 
 ## Using the wireless keyboard
 
-- One way to exit a game is by pressing the `ESC` key on your wireless keyboard. This will close the game and return the INITI Playground to the main menu.
+- Press the `ESC` key on the wireless keyboard to close the current game and return to the main menu.
 
 ## Using touch
 
-To exit a game using touch, you must first enable this feature in the settings menu (refer to the [Exit Button](exit-button.md) section). Once enabled, players can easily control the games and switch between them by touching the designated exit button on the screen and holding it for 2 seconds. This is particularly useful if you want to give players direct control over game selection and switching.
+- Ensure that the Exit Button is enabled. See [Exit Button](exit-button.md) for setup instructions.
+- Players can exit a game by pressing and **holding the Exit Button for 2 seconds**.  
+  This allows them to return to the main menu and select another game.
+
+!!! note
+    Holding the Exit Button for 2 seconds helps prevent accidental exits during gameplay.
 
 
 <div class="center imageWidth" markdown>
