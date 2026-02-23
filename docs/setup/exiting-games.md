@@ -1,7 +1,7 @@
 Title:   Exiting games
 Summary: How to quit a game and get back to UI menu
 Authors: Ondrej Prucha
-Date:    July 23, 2024
+Date:    February 23, 2026
 blank-value:
 
 # Exiting games

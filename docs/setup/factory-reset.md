@@ -1,27 +1,35 @@
 Title:   Factory reset
 Summary: How to reset INITI Playground to factory settings
 Authors: Ondrej Prucha
-Date:    August 20, 2024
+Date:    February 23, 2026
 blank-value:
 
 
 # Factory Reset
 
-If you encounter issues with INITI Playground that cannot be resolved through standard troubleshooting, you have the option to perform a factory reset. This process will restore the system to its original settings, effectively clearing all custom configurations and data. Use this feature cautiously, as it will erase any unsaved progress and personalized settings.
+If INITI Playground experiences issues that cannot be resolved through standard troubleshooting, you can perform a **factory reset**.  
 
-## How to Perform a Factory Reset
+This restores the system to its original settings and **erases all custom configurations and data**. Use this feature with caution, as any personalized settings will be lost.
 
-- Ensure you have access to the keyboard connected to the INITI Playground system.
-- Press and hold the `R` **key** on the keyboard.
-- **Continue holding** the key for approximately **10 seconds**.
-- After holding the `R` **key** for the required duration, the INITI Playground will automatically begin the reset process, as shown in the following image.
+---
+
+## Performing a Factory Reset
+
+1. Make sure a keyboard is connected to the INITI Playground system.
+2. Press and **hold the `R` key** on the keyboard.
+3. Continue holding the key for approximately **10 seconds**.
+4. After the 10-second hold, the system will automatically begin the reset process.
 
 <div class="center imageWidth" markdown>
-![Shutdown options](assets/factory-reset.png "Shutdown options")
+![Factory reset](assets/factory-reset.png "Factory reset")
 </div>
 
-- The system will **erase all user data and settings**, reverting to the original factory configuration.
-- After rebooting, the INITI Playground will be ready for fresh setup and use.
+- INITI Playground will **erase all user data and settings**, restoring the original factory configuration.
+- Once the reset is complete and the system reboots, you can start a fresh setup and use the system as new.
+
+!!! warning
+    This action is **irreversible**. All system settings, game-specific settings, leaderboards, and any customizations in games will be deleted. After the reset, the system will load fresh versions of games from the backup.  
+    You may also need to **update the system and games** after performing a factory reset.
 
 
 <br />
