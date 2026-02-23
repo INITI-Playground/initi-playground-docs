@@ -1,48 +1,67 @@
 Title:   Getting updates
 Summary: How to install updates for INITI Playground
 Authors: Ondrej Prucha
-Date:    July 21, 2024
+Date:    February 23, 2026
 blank-value:
 
-# Download and install updates
+# Download and Install Updates
 
 !!! success "Prerequisites"
+    INITI Playground must be connected to the internet to receive updates.  
+    If you have not completed this step yet, see the [Connecting to the Internet](connecting-to-the-internet.md) section first.
 
-    Before you can receive updates, your INITI Playground must be connected to the internet. If you haven't completed the previous chapter, please visit the [Connecting to the Internet](connecting-to-the-internet.md) section before proceeding.
+---
 
-## Locating updates tab
+## Open the Updates Section
 
-- Open the UI and click on the `Settings` tab located at the top of the screen
-- In the Settings menu, navigate to the `About` section. Here, you'll find general information about your INITI Playground, including the version, hardware key, and current status, as illustrated in the picture below.
+1. Open the UI and click the `Settings` tab at the top of the screen.
+2. Navigate to the `About` section.
+
+This section displays general system information, including the current software version, hardware key, and update status.
 
 <div class="center imageWidth" markdown>
 ![Getting updates](assets/get-updates-up-to-date.png "Getting updates")
 </div>
 
+- **Version** – Shows the currently installed INITI Playground version.  
+- **HW Key** – Unique identifier assigned to your INITI Playground system.  
+  *(Blurred in screenshots for security reasons.)*
 
-`Version` in top left corner indicates your current version. 
+---
 
-`HW key` is the unique key for your INITI Playground. It is blurred out in the screenshot for security reasons. 
+## Connection Issues
 
-## Connection issues
-
-If there are any connection issues, an error message will appear, as shown in the next screenshot. In this case, please check your Wi-Fi connection or revisit the [Connecting to the Internet](connecting-to-the-internet.md) section.
+If the system is not connected to the internet, an error message will appear as shown below.
 
 <div class="center imageWidth" markdown>
 ![Connection issues](assets/get-updates-offline.png "Connection issues")
 </div>
 
-## New version available
+Check your Wi-Fi connection or revisit the [Connecting to the Internet](connecting-to-the-internet.md) section.
 
-If a new version is available, you'll see a notification on the updates icon in the top right corner, as shown in the next screenshot. To download and install the new version, simply click the `UPDATE` button. The INITI Playground will download and install the update, automatically reset, and launch the new version.
+---
+
+## Install a New Update
+
+When a new version is available, a notification appears on the updates icon in the top-right corner.
 
 <div class="center imageWidth" markdown>
 ![New version available](assets/get-updates-new-version.png "New version available")
 </div>
 
-<br />
+To install the update:
 
-Now that you know how to stay up to date, you can proceed to the next chapter: the [Exit button](exit-button.md).
+1. Click the `UPDATE` button.
+2. The system will download and install the update automatically.
+3. INITI Playground will restart and launch the updated version.
+
+!!! info
+    During the update process, the application may temporarily close or restart. This is expected behavior.
+
+---
+
+Now that your system is up to date, continue to the next chapter: the [Exit Button](exit-button.md).
+
 
 ----
 
