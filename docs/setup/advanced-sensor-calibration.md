@@ -1,87 +1,111 @@
 Title:   Advanced sensor calibration
 Summary: Calibrating touch sensor using grid
 Authors: Ondrej Prucha
-Date:    July 20, 2024
+Date:    February 23, 2026
 blank-value:
 
-# Advanced sensor calibration
+# Advanced Sensor Calibration
 
-Advanced sensor calibration allows you to fine-tune the calibration using a grid-based warping input. This process is optional but highly beneficial when the wall is not perfectly flat or when certain areas of the projection require higher precision in touch positioning and visual response alignment.
+Advanced sensor calibration lets you fine-tune the touch area using a **grid-based warping system**.  
+This process is optional but highly recommended when:
 
-## Starting advanced calibration
+- The wall is not perfectly flat  
+- Certain areas of the projection require **higher precision** for touch and visual alignment  
 
-- Open the UI and navigate to the `Settings` tab located at the top of the screen.
-- Find and click on the `Advanced Calibration` section.
-- Click `START CALIBRATION` button
+---
+
+## Start Advanced Calibration
+
+1. Open the UI and navigate to the `Settings` tab at the top of the screen.  
+2. Locate and click the **Advanced Calibration** section.  
+3. Click the `START CALIBRATION` button.
 
 <div class="center imageWidth" markdown>
 ![Start advanced calibration confirm](assets/advanced-calibration-start.jpg "Start advanced calibration")
 </div>
 
+---
+
 ## Controls
 
-To fine-tune the calibration, use the mouse and keyboard to adjust the grid. Below is a table of controls:
+Use the mouse and keyboard to adjust the grid. Below is a table of available controls:
 
 <div class="center" markdown>
 
 | Shortcut                   | Action                       |
 |:--------------------------:|:----------------------------:|
-| Mouse Left-click           | select single point          |
-| Shift + Mouse Left-click   | select multiple points       |
-| V                          | select vertical line         |
-| H                          | select horizontal line       |
-| Arrows                     | move selected points         |
-| R                          | reset selected points        |
-| Esc                        | save and exit                |
+| Mouse Left-click           | Select a single point        |
+| Shift + Mouse Left-click   | Select multiple points       |
+| V                          | Select a vertical line       |
+| H                          | Select a horizontal line     |
+| Arrows                     | Move selected points         |
+| R                          | Reset selected points        |
+| Esc                        | Save and exit                |
 
 </div>
 
-## Moving the grid
+---
 
-To adjust the grid, select the points you want to move and reposition them using the arrow keys. You can select individual points, multiple points, or entire horizontal and vertical lines. Additionally, you can reset specific points to their default (unwarped) positions by selecting them and pressing the `R` key. Below are some examples:
+## Moving the Grid
+
+To adjust the grid:
+
+1. Select the points you want to move (single, multiple, or entire horizontal/vertical lines).  
+2. Use the **arrow keys** to reposition the selected points.  
+3. Reset points to default positions by selecting them and pressing `R`.
+
+Below are visual examples:
 
 <div class="center imageWidth" markdown>
 
-=== "Selecting points"
+=== "Selecting Points"
 
     ![Warp grid selecting points](assets/advanced-calibration-grid-point.png "Warp grid selecting points")
 
-=== "Vertical line"
+=== "Vertical Line"
 
-    ![Warp grid selecting verical line](assets/advanced-calibration-grid-vl.png "Warp grid selecting vertical line")
+    ![Warp grid selecting vertical line](assets/advanced-calibration-grid-vl.png "Warp grid selecting vertical line")
 
-=== "Horizontal line"
+=== "Horizontal Line"
 
     ![Warp grid selecting horizontal line](assets/advanced-calibration-grid-hl.png "Warp grid selecting horizontal line")
 
 </div>
 
-## Testing calibration
+---
 
-During the grid setup, it's important to test the calibration by touching the wall. When you touch the wall, a blue cross should appear at the point of contact, ensuring accurate alignment between touch position and visual response. It is recommended to perform this test with an assistant: one person adjusts the grid while the other touches the wall to see where the hit is registered. Refer to the image below for an illustration of this process.
+## Testing Calibration
+
+Test the calibration by touching the wall. A **blue cross** should appear at the contact point, confirming accurate touch-to-visual alignment.  
+
+For best results, use an assistant: one person adjusts the grid while the other touches the wall to verify hits.  
 
 <div class="center imageWidth" markdown>
 ![Testing advanced calibration](assets/advanced-calibration-testing.jpg "Testing advanced calibration")
 </div>
 
+---
 
-## Resetting advanced calibration
+## Resetting Advanced Calibration
 
-To discard the current advanced calibration, click the `Reset Calibration` button at the bottom of the screen.
+To discard the current advanced calibration:
+
+1. Click the `Reset Calibration` button at the bottom of the screen.  
+2. Confirm the action by clicking `OK`.
 
 <div class="center imageWidth" markdown>
 ![Reset advanced calibration](assets/advanced-calibration-start2.jpg "Reset advanced calibration")
 </div>
 
-To prevent accidental resets, you will need to confirm this action by clicking `OK`
-
 <div class="center imageWidth" markdown>
 ![Reset advanced calibration confirm](assets/advanced-calibration-reset.png "Reset advanced calibration confirm")
 </div>
 
-## Video guide
+---
 
-For additional guidance, check out our video tutorial below.
+## Video Guide
+
+For a step-by-step demonstration, watch the video tutorial below:
 
 <div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
@@ -89,10 +113,13 @@ For additional guidance, check out our video tutorial below.
 <script src="https://player.vimeo.com/api/player.js"></script>
 </div>
 
+---
 
-<br />
+## Next Step
 
-Now that the sensor is successfully calibrated, it's time to move on to the next step: connecting your INITI Playground to the internet. This will enable you to access updates or download new games. Proceed to the [next section](connecting-to-the-internet.md) for detailed instructions on how to connect your system to the internet.
+Once advanced calibration is complete, connect your INITI Playground to the internet. This enables **system updates** and **game downloads**.  
+
+Proceed to the [Connecting to the Internet](connecting-to-the-internet.md) section for instructions.
 
 ----
 
