@@ -41,8 +41,6 @@ When enabled, players can end a game session and return to the main menu without
 !!! info
     Disabling the Exit Button is useful for supervised installations, exhibitions, or events where games are controlled by staff.
 
-<!-- ADDED: practical usage example -->
-
 ---
 
 ## Adjust Exit Button Height
