@@ -1,36 +1,41 @@
 Title:   Starting games
 Summary: How to select and start INITI Playground games
 Authors: Ondrej Prucha
-Date:    July 23, 2024
+Date:    February 23, 2026
 blank-value:
 
 # Selecting and starting games
 
-Once the playground setup and calibration are complete, you likely won't need to visit the settings frequently. The main focus now is on selecting and launching games from the `Games` tab using either a wireless keyboard or, when touch is enabled, directly by touching the wall.
+After completing the initial setup and calibration, most daily operation happens in the `Games` tab. From here, you can browse installed games and start them using either a wireless keyboard or touch interaction.
 
 ## Using the wireless keyboard
 
 - Navigate to the `Games` tab at the top of the screen.
-- Use the touchpad on the wireless keyboard to select the game you want to launch. You can navigate through the games using the arrows on the left and right or by clicking the small icons at the bottom of the screen, as illustrated in the picture below.
+- Use the touchpad on the wireless keyboard to browse available games.
+- You can switch between games by:
+    - clicking the arrows on the left or right side of the screen, or  
+    - selecting the small game icons at the bottom, as shown below.
 
 <div class="center imageWidth" markdown>
 ![Starting games](assets/starting-games.jpg "Starting games")
 </div>
 
-- Once you’ve selected the game, click the play button located in the center of the screen to launch it.
-  
+- Once the desired game is selected, click the **Play** button in the center of the screen.
+
 <div class="center imageWidth" markdown>
 ![Launch a game](assets/starting-games-play.jpg "Launch a game")
 </div>
 
-
 ## Using touch
 
-- Ensure that touch functionality is enabled (refer to the [Enabling Touch in the Games Tab](enabling-touch.md) section).
-- Select a game by touching the arrows on the sides, using a swipe gesture, or touching the game icons at the bottom of the screen.
-- To launch a game, touch the play button in the center of the screen.
-- For further assistance, you can also watch the video tutorial provided below.
+- Make sure touch interaction is enabled. See [Enabling Touch in the Games Tab](enabling-touch.md).
+- Select a game by:
+    - touching the side arrows,
+    - swiping left or right, or
+    - touching the game icons at the bottom of the screen.
+- Start the game by touching the **Play** button in the center.
 
+## Video tutorial
 
 <div class="center imageWidth">
 <div style="padding:56.25% 0 0 0;position:relative;">
