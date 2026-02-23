@@ -1,7 +1,7 @@
 Title:   User guide
 Summary: Initial Setup, Calibration, and User Guide
 Authors: Ondrej Prucha
-Date:    July 19, 2024
+Date:    February 23, 2026
 blank-value:
 
 # Initial Setup, Calibration, and User Guide
