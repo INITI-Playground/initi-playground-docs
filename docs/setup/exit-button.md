@@ -1,37 +1,58 @@
 Title:   Exit button
 Summary: How to configure the exit button
 Authors: Ondrej Prucha
-Date:    July 22, 2024
+Date:    February 23, 2026
 blank-value:
 
-# Exit button configuration
+# Exit Button Configuration
 
-The exit button is included in all games that come with the INITI Playground. It allows users to exit a game and return to the main menu, providing a control over the interactive experience. It can be toggled on or off based on whether games should be started and switched by the players or by the operator.
+The Exit Button is available in all INITI Playground games.  
+It allows users to leave a running game and return to the main menu.
 
-## Locating exit button settings
+Depending on your installation, the Exit Button can be enabled for player control or disabled when games are managed exclusively by an operator.
 
-- Open the UI and navigate to the `Settings` tab at the top of the screen.
-- In the `General` settings menu, find the section dedicated to Exit Button Configuration, as shown in the picture below.
+---
+
+## Open Exit Button Settings
+
+1. Open the UI and navigate to the `Settings` tab at the top of the screen.
+2. In the `General` settings section, locate **Exit Button Configuration**.
 
 <div class="center imageWidth" markdown>
 ![Exit button location](assets/exit-button-location.jpg "Exit button location")
 </div>
 
-## Exit button position
+---
 
-You can configure the exit button to be positioned on the `LEFT`, on the `RIGHT`, or `DISABLED` entirely based on your preferences. Enabling the exit button allows players to control when to end a game session and return to the main menu.
+## Exit Button Position
+
+You can choose where the Exit Button appears:
+
+- `LEFT` – Displays the button on the left side of the projection  
+- `RIGHT` – Displays the button on the right side of the projection  
+- `DISABLED` – Hides the Exit Button completely
+
+When enabled, players can end a game session and return to the main menu without operator assistance.
 
 <div class="center imageWidth" markdown>
 ![Exit button](assets/exit-button-position.jpg "Exit button")
 </div>
 
+!!! info
+    Disabling the Exit Button is useful for supervised installations, exhibitions, or events where games are controlled by staff.
 
-## Exit button location
+<!-- ADDED: practical usage example -->
 
-By adjusting the exit button location slider, you can control its vertical position on the screen. This is useful, for instance, if you want to keep the button accessible but out of reach of smaller children.
+---
 
-To get visual feedback on the exit button's location in settings, see the "Exit Button in the Game" placeholder. When you start a game, the exit button will appear in the same spot as shown in the settings. This is illustrated in the following screenshots.
+## Adjust Exit Button Height
 
+Use the **location slider** to adjust the vertical position of the Exit Button.
+
+This allows you to keep the button accessible while preventing accidental presses, for example by positioning it out of reach of smaller children.
+
+The preview labeled **"Exit Button in the Game"** shows where the button will appear during gameplay.  
+When a game starts, the Exit Button will be displayed in the same position.
 
 <div class="center imageWidth" markdown>
 
