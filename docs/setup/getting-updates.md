@@ -60,14 +60,14 @@ To install the update:
 
 ---
 
-Now that your system is up to date, continue to the next chapter: the [Exit Button](exit-button.md).
+Now that your system is up to date, continue to the next chapter: [Managing Games](managing-games.md).
 
 
 ----
 
 
 <div class="center" markdown>
-[Exit button](exit-button.md){ .md-button }
+[Managing Games](managing-games.md){ .md-button }
 </div>
 
 <br />

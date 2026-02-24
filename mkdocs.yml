@@ -98,6 +98,7 @@ nav:
       - 'Advanced calibration': 'setup/advanced-sensor-calibration.md'
       - 'Connecting to the internet': 'setup/connecting-to-the-internet.md'
       - 'Getting updates': 'setup/getting-updates.md'
+      - 'Managing games': 'setup/managing-games.md'
       - 'Exit button': 'setup/exit-button.md'
       - 'Automatically start games': 'setup/game-autostart.md'
       - 'Sound settings': 'setup/sound-settings.md'
