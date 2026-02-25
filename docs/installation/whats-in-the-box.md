@@ -1,12 +1,12 @@
 Title:   Unboxing the INITI Playground
 Summary: List of parts for INITI Playground
 Authors: Ondrej Prucha
-Date:    July 25, 2024
+Date:    February 25, 2026
 blank-value:
 
 # Unboxing the INITI Playground
 
-To get started with your INITI Playground, we’ve created a video that walks you through the unboxing process and showcases everything included in the box. Watching this video will give you a clear understanding of all the components that come with your system, ensuring you have everything you need before beginning installation.
+Before starting the installation, familiarize yourself with all components included in your INITI Playground package. The video below walks you through the unboxing process and introduces each part of the system, helping you confirm that everything is ready for installation.
 
 <br />
 <div class="center imageWidth" markdown>
@@ -16,26 +16,30 @@ To get started with your INITI Playground, we’ve created a video that walks yo
 </div>
 
 <br />
-In addition to the video, here’s a list of items included in the INITI Playground package:
 
+---
+
+## Package contents
+
+The INITI Playground package includes the following items:
 
 <div class="center" markdown>
 
-| Item                                  |    Quantity                                               |
-| --------------------------------- | ------------------------------------------------- |
-| Media server | 1x  |
-| Power adapter for media server | 1x  |
-| Touch sensor | 1x  |
-| PoE injector | 1x  |
-| LAN cables | 2x  |
-| External audio card | 1x  |
-| Bluetooth keyboard | 1x  |
-| Printed wiring plan | 1x  |
+| Item                         | Quantity |
+|------------------------------|:--------:|
+| Media server                 | 1x |
+| Power adapter for media server | 1x |
+| Touch sensor                 | 1x |
+| PoE injector                 | 1x |
+| LAN cables                   | 2x |
+| External audio card          | 1x |
+| Bluetooth keyboard           | 1x |
+| Printed wiring plan          | 1x |
 
 </div>
 
-
-Make sure to verify that all components are present before moving on to the installation process. If anything is missing or damaged, please [contact us](../help/contact.md) right away for assistance.
+Before continuing, verify that all components are present and undamaged.  
+If anything is missing or appears damaged, please [contact us](../help/contact.md) before proceeding with installation.
 
 
 ----

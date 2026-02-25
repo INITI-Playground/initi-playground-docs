@@ -1,7 +1,7 @@
 Title:   Installation guide
 Summary: Hardware installation guide
 Authors: Ondrej Prucha
-Date:    July 25, 2024
+Date:    February 25, 2026
 blank-value:
 
 # Hardware Installation Guide
