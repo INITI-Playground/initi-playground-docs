@@ -1,20 +1,20 @@
 Title:   Space requirements
 Summary: Space requirements for setting up your INITI Playground. 
 Authors: Ondrej Prucha
-Date:    September 25, 2024
+Date:    February 25, 2026
 blank-value:
 
 
-In this section, we’ve included a video that outlines the essential and recommended space requirements for setting up your INITI Playground. The video covers:
+Before installing INITI Playground, it is important to evaluate the available space and confirm that the environment meets the recommended installation requirements.
 
-- **Projection Area:** The minimum and maximum dimensions needed for the interactive wall, as well as the ideal space for optimal gameplay.
-- **Soft Ball Size:** Specifications on the minimum size of soft balls that can be used with the system to ensure accuracy and fun interaction.
-- **Projector Placement:** How much room is needed for the projector to function effectively without obstructing the gameplay area.
-- **Player Space:** Recommendations on how much distance players should maintain from the wall for an immersive and comfortable experience.
+The video below explains the key spatial considerations for a successful setup:
 
-Make sure to check the video and measure your available space to ensure a smooth installation and gameplay experience. Proper spacing is crucial to allow for safe movement.
+- **Projection area** – recommended wall dimensions and optimal projection size for the best interactive experience.
+- **Soft ball size** – minimum recommended soft ball size to ensure reliable detection and accurate interaction.
+- **Projector placement** – required distance and positioning to achieve proper image coverage without interfering with players.
+- **Player space** – recommended distance between players and the wall to ensure comfortable and safe gameplay.
 
-
+Proper spacing is essential not only for gameplay quality but also for **player safety**. Before continuing, review the video and measure your installation area to confirm that it meets these requirements.
 
 <br />
 <div class="center imageWidth" markdown>
