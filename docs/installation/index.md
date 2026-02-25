@@ -6,7 +6,22 @@ blank-value:
 
 # Hardware Installation Guide
 
-Welcome to the Hardware Installation Guide for INITI Playground. In this section of the documentation, we’ll cover everything you need to get your system up and running. You’ll find detailed information on what’s included in the INITI Playground package, how to select the ideal wall and projector for the best experience, and step-by-step instructions on how to install the sensor and connect the computer. Let’s get started with setting up your playground!
+**Welcome to the Hardware Installation Guide for INITI Playground.**
+
+This section will guide you through the physical setup of your system, from choosing the right installation space to connecting all hardware components. Following these instructions will help ensure reliable performance and the best possible interactive experience.
+
+In this guide you will learn how to:
+
+- unpack and identify all included components,
+- choose a suitable wall and projector,
+- install and position the sensor correctly,
+- connect and power the INITI Playground.
+
+This guide is intended for **installers, technicians, and operators** responsible for preparing the system before first use.
+
+Once everything is properly installed, you will be ready to proceed with calibration and software setup. 
+
+Let’s begin with **unpacking and reviewing** what’s included in your INITI Playground package.
 
 <br />
 
