@@ -6,16 +6,33 @@ blank-value:
 
 # Choosing the right projector
 
-Since every space has unique dimensions and lighting conditions, the projector is not included with the INITI Playground package. You will need to select a projector based on your specific requirements. Here are the three main factors to consider:
+Because every installation space has different dimensions, mounting options, and lighting conditions, the projector is **not included** with the INITI Playground package. Selecting the correct projector is essential for achieving the best visual quality and interaction experience.
 
-- **Projection Distance:** To minimize shadows cast by players, a short-throw projector is recommended. These projectors allow you to place the device closer to the wall, reducing interference from players standing in front of the projection area.
-- **Projector Brightness:** Ensure the projector is bright enough for the lighting conditions of your space. A higher brightness (measured in lumens) will be necessary in environments with strong ambient light to maintain clear visibility of the projection.
-- **Resolution:** A minimum resolution of Full HD (1080p) is recommended for INITI Playground, but the system also supports higher resolutions, including 4K, for enhanced visual clarity and detail.
+Below are the main factors to consider when choosing a projector:
+
+- **Projection distance (Throw ratio)**  
+  A **short-throw projector** is strongly recommended. Short-throw models can be placed closer to the wall, which helps minimize player shadows and prevents the projector beam from being blocked during gameplay.
+
+- **Projector brightness**  
+  Choose brightness according to the ambient lighting conditions:
+    - darker indoor spaces: lower brightness may be sufficient,
+    - bright rooms or public spaces: higher lumen output is required.  
+
+     In general, brighter projectors provide better visibility and more vibrant colors.
+
+- **Resolution**  
+  The recommended minimum resolution is **Full HD (1920×1080)**.  
+  INITI Playground also supports higher resolutions, including **4K**, which improves image sharpness, text readability, and overall visual detail.
+
+- **Installation flexibility**  
+  Consider mounting options such as ceiling mounting, wall brackets, or truss installations. Proper mounting helps maintain stable alignment and consistent calibration results.
 
 !!! success "Recommended Projectors"
-     We've put together an updated list of projectors that work great with the INITI Playground gaming console. [Click here to view the document](https://docs.google.com/spreadsheets/d/1i94XRj2e5Q2ARqUl3iHwc1vLIFqblyI3hX0YPx9Ky0M){:target="_blank"}.
+    We maintain an updated list of projector models tested with INITI Playground.  
+    [Click here to view the recommended projector list](https://docs.google.com/spreadsheets/d/1i94XRj2e5Q2ARqUl3iHwc1vLIFqblyI3hX0YPx9Ky0M){:target="_blank"}.
 
-For a visual guide on selecting the right projector, please check the video below. If you have any questions or need further assistance, feel free to [contact us](../help/contact.md) — we're happy to help!
+For a visual explanation of projector selection and placement, watch the video below.  
+If you need assistance choosing a projector for your space, feel free to [contact us](../help/contact.md) — we’ll be happy to help.
 
 <br />
 <div class="center imageWidth" markdown>
