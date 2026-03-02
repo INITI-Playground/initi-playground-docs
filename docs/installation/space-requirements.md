@@ -9,12 +9,13 @@ Before installing INITI Playground, it is important to evaluate the available sp
 
 The video below explains the key spatial considerations for a successful setup:
 
-- **Projection area** – recommended wall dimensions and optimal projection size for the best interactive experience.
-- **Soft ball size** – minimum recommended soft ball size to ensure reliable detection and accurate interaction.
-- **Projector placement** – required distance and positioning to achieve proper image coverage without interfering with players.
-- **Player space** – recommended distance between players and the wall to ensure comfortable and safe gameplay.
+- **Projection area** – supported wall sizes range from a **minimum of 3 × 2 m** up to a **maximum of 16 × 9 m**, depending on the projector and installation environment.
+- **Soft ball size** – the **minimum recommended foam ball diameter is 7 cm** to ensure reliable detection and accurate interaction.
+- **Projector placement** – sufficient space must be available to achieve proper image coverage without interfering with players.
+- **Player space** – maintain at least **3 meters of free space** in front of the wall to allow comfortable movement and safe gameplay.
 
 Proper spacing is essential not only for gameplay quality but also for **player safety**. Before continuing, review the video and measure your installation area to confirm that it meets these requirements.
+
 
 <br />
 <div class="center imageWidth" markdown>
