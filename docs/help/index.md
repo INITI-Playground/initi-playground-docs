@@ -1,24 +1,28 @@
 Title:   Get help
 Summary: Search through FAQ or contact us for more help
 Authors: Ondrej Prucha
-Date:    July 19, 2024
+Date:    March 3, 2026
 blank-value:
 
 
 # Getting Help
 
+If you need assistance with your INITI Playground, there are several ways to find support.
 
+## Frequently Asked Questions
 
-Please start by browsing through our [Frequently Asked Questions](faq.md). We've compiled a comprehensive list of common queries and their answers to help you quickly find the information you need.
+Start by browsing our [Frequently Asked Questions](faq.md). This section covers common issues, setup guidance, and troubleshooting tips, allowing you to resolve most questions independently.
 
-If you don't find what you're looking for in the [FAQ](faq.md) section, don't worry. You can reach out directly to our team using the [contact form](contact.md). Simply fill it out with your question or concern, and we will get back to you as soon as possible.
+## Contacting Support
 
-<br />
+If your question isn’t addressed in the [FAQ](faq.md), you can reach out to our team directly through the [contact form](contact.md). Provide details about your issue or inquiry, and we will respond as soon as possible.
 
 <div style='width: 50%' class="center" markdown>
 ![Get help](assets/ip-hardware.png "Get help")
 </div>
 
+!!! tip "Pro advice"
+    When contacting support, include your system version and a brief description of the issue. This helps us provide faster and more precise assistance.
 
 ----
 
