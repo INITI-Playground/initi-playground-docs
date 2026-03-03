@@ -6,40 +6,62 @@ blank-value:
 
 # Sensor installation
 
-There are two ways to install the INITI Playground sensor: mounting it to the ceiling or to the wall. Depending on your space, you can choose the method that works best for you:
+The INITI Playground sensor can be installed either on the **ceiling** or directly on the **wall**, depending on your installation environment. Both methods provide reliable tracking when the sensor is correctly aligned.
 
-1. **Mounting the sensor on the ceiling**
-      - Remove the front part of the sensor holder.
-      - Attach the remaining part of the holder to the ceiling using screws and dowels.
+## Mounting options
 
-1. **Mounting the sensor to the wall**
-      - First, screw the front part of the holder directly to the wall.
-      - Secure the rest of the holder to the front part using two nuts and tighten them firmly.
+### Ceiling mounting
 
-------------
+Ceiling mounting typically provides the best results because the sensor remains protected and centered above the projection area.
+
+- Remove the **front part** of the sensor holder.
+- Attach the remaining holder base to the ceiling using appropriate screws and wall plugs.
+
+### Wall mounting
+
+Wall mounting is suitable when ceiling installation is not possible.
+
+- Attach the **front part** of the holder directly to the wall.
+- Connect the rest of the holder to the mounted front part.
+- Secure both parts together using the two supplied nuts and tighten them firmly.
+
+---
 
 <div class="center imageWidth" markdown>
 ![Mounting sensor](assets/sensor-mounting.jpg "Mounting sensor"){ .on-glb } 
 </div>
 
-
----------
-
+---
 
 <div class="center imageWidth" markdown>
 ![Sensor wiring](assets/sensor-plan.jpg "Sensor wiring"){ .on-glb } 
 </div>
 
------------
+---
 
+## Sensor positioning
 
-In both cases, ensure that the top of the sensor is approximately 3 cm from the projection wall. The sensor uses an invisible laser beam that should rotate as parallel as possible to the wall for optimal performance.
+For proper operation, correct positioning is critical:
 
-!!! custom-tip "Note"
-    If the sensor becomes misaligned during installation, use an Allen key #5 to adjust the front screws of the holder. Rotate the screws until the sensor is horizontal and aligned with the wall. You can check the sensor's balance in the `Sensor Calibration` section under `Settings`.
+- The **top edge of the sensor** should be approximately **3 cm away from the projection wall**.
+- The sensor emits an invisible laser scanning line that should rotate **as parallel to the wall as possible**.
+- Ideally, position the sensor **centrally above the projection area** for the most consistent tracking results.
 
+!!! custom-tip "Alignment adjustment"
+    If the sensor becomes misaligned during installation, use an **Allen key #5** to adjust the front screws of the holder. Rotate the screws until the sensor is level and aligned with the wall. You can verify alignment later in the **Sensor Calibration** section under `Settings`.
 
-For a visual guide, please refer to the video below.
+## Alignment recommendation
+
+!!! custom-tip "Final tip"
+    To ensure the detection surface covers the entire projection area:
+    
+    - First, adjust the screws until the **blue sensor line appears horizontal**.
+    - Then use only the **bottom adjustment screw** to move the line vertically.
+    - Position the detection line approximately **5–10 cm above the top edge of the projection area**.
+
+This ensures reliable detection of touches and soft ball impacts across the entire wall.
+
+For a complete visual walkthrough of the installation process, watch the video below.
 
 <div class="center imageWidth" markdown>
 <div style="padding:56.25% 0 0 0;position:relative;">
@@ -48,10 +70,6 @@ For a visual guide, please refer to the video below.
 </div>
 
 <br />
-
-
-!!! custom-tip "Final tip"
-    To ensure the sensor detection surface is level and covers the entire projection wall, align the sensor by first using the screws to get the blue sensor line to a horizontal position. Then, use only the bottom screw to shift the blue line down, positioning the sensor's detection surface 5-10 cm above the entire projection area.
 
 ----
 
