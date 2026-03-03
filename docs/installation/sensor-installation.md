@@ -1,7 +1,7 @@
 Title:   Sensor installation
 Summary: Mounting the sensor to the wall
 Authors: Ondrej Prucha
-Date:    July 25, 2024
+Date:    March 3, 2026
 blank-value:
 
 # Sensor installation
